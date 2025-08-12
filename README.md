@@ -64,9 +64,26 @@ UART Implementation.pdf
 
 ---
 
-## 🧪 Simulation (Modelsim) + Real-Life Tests
+## 🧪 Simulation (ModelSim) + Real-Life Tests
 
+### Simulation
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fc2f2705-e055-4de1-b6f7-f2008206f44a" />
 
 <img width="500" height="298" alt="image" src="https://github.com/user-attachments/assets/5760efc9-bf29-4a8c-b876-df0fd5804910" />
+
+### Real-Life Tests
+
+### Heartbeat   
+
+![PXL_20250812_155838129 LS1-ezgif com-resize](https://github.com/user-attachments/assets/07022660-aa62-47c7-8a7d-8871dd7fd2f8)  
+
+### RX + TX
+![PXL_20250812_160143530 LS2-ezgif com-resize](https://github.com/user-attachments/assets/0d7fe5b9-866b-46d7-af9e-80d1374456d2)
+
+### Reset
+
+![PXL_20250812_160158828 LS-ezgif com-resize](https://github.com/user-attachments/assets/3117cabe-576e-43ab-bfcb-a3ee132d6b97)
+
+---
+
 
