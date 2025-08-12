@@ -1,0 +1,36 @@
+[
+ {
+  "InstFile" : "C:/Users/simto/OneDrive/Desktop/UART/uart_project/src/uart_top.v",
+  "InstLine" : 1,
+  "InstName" : "uart_top",
+  "ModuleFile" : "C:/Users/simto/OneDrive/Desktop/UART/uart_project/src/uart_top.v",
+  "ModuleLine" : 1,
+  "ModuleName" : "uart_top",
+  "SubInsts" : [
+   {
+    "InstFile" : "C:/Users/simto/OneDrive/Desktop/UART/uart_project/src/uart_top.v",
+    "InstLine" : 25,
+    "InstName" : "DEBOUNCE",
+    "ModuleFile" : "C:/Users/simto/OneDrive/Desktop/UART/uart_project/src/uart_debounce.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_debounce"
+   },
+   {
+    "InstFile" : "C:/Users/simto/OneDrive/Desktop/UART/uart_project/src/uart_top.v",
+    "InstLine" : 52,
+    "InstName" : "RX",
+    "ModuleFile" : "C:/Users/simto/OneDrive/Desktop/UART/uart_project/src/uart_rx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_rx"
+   },
+   {
+    "InstFile" : "C:/Users/simto/OneDrive/Desktop/UART/uart_project/src/uart_top.v",
+    "InstLine" : 69,
+    "InstName" : "TX",
+    "ModuleFile" : "C:/Users/simto/OneDrive/Desktop/UART/uart_project/src/uart_tx.v",
+    "ModuleLine" : 1,
+    "ModuleName" : "uart_tx"
+   }
+  ]
+ }
+]
