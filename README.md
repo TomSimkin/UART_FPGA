@@ -68,5 +68,5 @@ UART Implementation.pdf
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fc2f2705-e055-4de1-b6f7-f2008206f44a" />
 
-<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/5760efc9-bf29-4a8c-b876-df0fd5804910" />
+<img width="500" height="298" alt="image" src="https://github.com/user-attachments/assets/5760efc9-bf29-4a8c-b876-df0fd5804910" />
 
