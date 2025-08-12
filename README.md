@@ -56,6 +56,14 @@ An FPGA-based UART implementation with separate TX/RX modules, a configurable ba
 
 ---
 
+## 📖 Documentation
+
+For a theoretical background and explanation of each step, refer to the included PDF:
+
+UART Implementation.pdf
+
+---
+
 ## 🧪 Simulation (Modelsim) + Real-Life Tests
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/fc2f2705-e055-4de1-b6f7-f2008206f44a" />
