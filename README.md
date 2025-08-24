@@ -1,6 +1,8 @@
 # 🔌 UART_FPGA
 
-An FPGA-based UART implementation with separate TX/RX modules, a configurable baud rate generator, runtime status flags, and LED indicators for instant visual debugging. Designed for learning, integration, and reliable serial communication between your FPGA and a PC.
+An FPGA-based UART implementation with separate TX/RX modules, a configurable baud rate generator, runtime status flags, and LED indicators for instant visual debugging. Designed for learning, integration, and reliable serial communication between your FPGA and a PC. 
+
+Written entirely in Verilog.
 
 ---
 
